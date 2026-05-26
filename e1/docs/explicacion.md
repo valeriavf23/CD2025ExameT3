@@ -1,2 +1,5 @@
-Hacemos un test que pruebe todos los casos del método.
-Comprobamos en con el jacoco que nos cubre el 100%.
+# EJERCICIO 1
+
+-Hacemos un test que pruebe todos los casos del método.
+
+-Hacemos el jacoco para ver que tiene el 100% de cobertura.
